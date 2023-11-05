@@ -1,4 +1,1 @@
-# test1
-# test2
-# test3
-from task1
+# main
